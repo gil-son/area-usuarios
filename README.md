@@ -14,7 +14,7 @@ O sistema oferece a experiência para desenvolvedores iniciantes e/ou intermedi�
 
 ### Instalação:
 
-Algumas softwares precisam ser instalados para otimizar e facilitar. Algumas recomendações, mas sintasse livre:
+Alguns softwares precisam ser instalados para otimizar e facilitar o projeto. Algumas recomendações, mas sintasse livre:
 
 ```
 Editor(es) de texto: VS Code, Sublime, Notepad++, Brackets e etc...
