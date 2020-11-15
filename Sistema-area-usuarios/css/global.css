@@ -1,0 +1,28 @@
+/*fonts.google.com*/ /*Tbm pode usar o bootstrap assim*/
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400;1,700&family=Ubuntu:ital,wght@0,300;1,700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Para o padding não expandir outros elementos*/
+}
+
+
+body{
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+h1, h2, h3{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    font-size: 36px;
+}
+
+
+a{
+    text-decoration: none;
+    color: #007bef;
+}
