@@ -17,7 +17,7 @@ O sistema oferece a experiência para desenvolvedores iniciantes e/ou intermedi�
 Algumas softwares precisam ser instalados para otimizar e facilitar. Algumas recomendações, mas sintasse livre:
 
 ```
-  Um editor de texto: VS Code, Sublime, Notepad++, Brackets e etc...
+Editor(es) de texto: VS Code, Sublime, Notepad++, Brackets e etc...
 ```
 
 ```
@@ -26,8 +26,9 @@ phpMyAdmin para facilitar o manuseio.
 ```
 
 ```
-XAMPP - é um pacote com os principais servidores de código aberto do mercado, incluindo FTP, banco de dados MySQL
-e Apache. É compatível com o Windows e Linux. Outras ferramentas similares, são: WAMP para Windows ou LAMP para Linux.
+XAMPP - é um pacote com os principais servidores de código aberto do mercado, 
+incluindo FTP, banco de dados MySQL e Apache. É compatível com o Windows e Linux.
+Outras ferramentas similares, são: WAMP para Windows ou LAMP para Linux.
 ```
 
 
