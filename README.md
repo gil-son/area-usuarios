@@ -35,6 +35,6 @@ Outras ferramentas similares, são: WAMP para Windows ou LAMP para Linux.
 
 ## Principais autores
 
-Gilson, <a href="https://github.com/joseAllisson" target="_blank">Guilherme</a> e <a href="https://github.com/Guilherme1612" target="_blank">José</a> 
+Gilson, <a href="https://github.com/Guilherme1612" target="_blank">Guilherme</a> e <a href="https://github.com/joseAllisson" target="_blank">José</a> 
 
 
