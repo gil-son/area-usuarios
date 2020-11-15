@@ -12,7 +12,7 @@ O sistema oferece a experiência para desenvolvedores iniciantes e/ou intermedi�
 
 É importante ter fundamentos de linguagem de programação e banco de dados relacional.
 
-### Instação:
+### Instalação:
 
 Algumas softwares precisam ser instalados para otimizar e facilitar. Algumas recomendações, mas sintasse livre:
 
