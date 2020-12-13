@@ -2,7 +2,7 @@
 
 ![Sistema usuarios](https://media.giphy.com/media/NITGlrnFPh0D8WUCJ6/giphy.gif)
 
-Sistema com área de usuários que possbilita a interação entre eles.
+Sistema com área de usuários que possibilita a interação entre eles.
 
 # Início
 
